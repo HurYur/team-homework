@@ -1,0 +1,19 @@
+.logos ul{
+	width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.logos li{
+	display: inline;
+	min-width: 100px;
+	text-align: center;
+	padding: 5px;
+}
+.logos .media{
+	color: #6B7676;
+	background: #CBD1D0;
+}
+.logos li h3{
+	margin: 0;
+}
