@@ -3,6 +3,9 @@
     color: #FFFFFF; 
 }
 
-.sub_img2 {
+.subscribe-buttons, .sub_img2 {
     padding-top: 3.75rem;
+}
+.subscribe-buttons ul  {
+    padding-left: 20px;
 }
