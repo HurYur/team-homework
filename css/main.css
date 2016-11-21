@@ -1,0 +1,18 @@
+.featured-guests .row{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.featured-guests > :first-child{
+	text-align: center;
+}
+.featured-guests .bluetext, .featured-guests h2 {
+	color: #1EB6E7;
+}
+.featured-guests h2 {
+    line-height: 1.2;
+    margin: 0;
+}
+.featured-guests p {
+    color: #969696;
+    line-height: 1.4;
+}
