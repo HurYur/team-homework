@@ -1,8 +1,9 @@
 .logos ul{
 	width: 100%;
     display: flex;
-    flex-flow: row wrap;
+    flex-direction: row;
     justify-content: space-between;
+    padding: 0;
 }
 .logos li{
 	display: inline;
