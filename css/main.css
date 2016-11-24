@@ -1,3 +1,25 @@
+/*Part-3*/
+.logos ul{
+	width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0;
+}
+.logos li{
+	display: inline;
+	min-width: 100px;
+	text-align: center;
+	padding: 5px;
+}
+.logos .media{
+	color: #6B7676;
+	background: #CBD1D0;
+}
+.logos li h3{
+	margin: 0;
+}
+/*Part-11*/
 .legalese {
     color: #ffffff;
     text-align: center;
