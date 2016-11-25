@@ -122,6 +122,36 @@
     color: #969696;
     line-height: 1.4;
 }
+/*Part-6*/
+.latest-episodes{
+	width: 100%;
+	background: #191A1A;
+	padding: 20px 0;
+}
+.latest-episodes .row{
+	color: #B1B1B1;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.latest-episodes > :first-child{
+	color: white;
+	text-align: center;
+}
+.latest-episodes .bluetext, .latest-episodes h3, 
+.latest-episodes a, .latest-episodes button {
+	color: #38C1EC;
+}
+.latest-episodes a{
+	text-decoration: none;
+}
+.latest-episodes > :last-child{
+	text-align: center; 
+}
+.latest-episodes button{
+	border: 2px solid #38C1EC;
+	padding: 10px;
+	margin: 20px 0;
+}
 /*Part-11*/
 .legalese {
     color: #ffffff;
