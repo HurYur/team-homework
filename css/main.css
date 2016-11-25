@@ -1,3 +1,128 @@
+/*Part-1-2*/
+.navigation .row .columns{
+	max-height: 75px;
+}
+.navigation .logo img{
+	margin: 5px 0;
+	height: 66px;
+}
+.navigation .nav ul{
+	margin: 0;
+	float: right;
+}
+.navigation .nav ul li{
+	margin-top: 29px;
+	display: inline-block;
+	font-size: 13px;
+	padding-right: 20px;
+}
+.navigation .nav ul li a{
+	text-decoration: none;
+	color: #6C6C6C;
+	font-weight: bold;
+}
+.navigation .nav ul li a:hover{
+	text-decoration: none;
+	color: #202020;
+	font-weight: bolder;
+}
+.cta-banner{
+	height: 360px;
+	background-image: url(../img/banner.png);
+	-webkit-background-size: 1000px;
+	background-size: cover;
+}
+.cta-banner .row .columns.banner .text{
+	margin: 105px 0;
+	color: #fff;
+	text-align: center;
+	font-size: 10px;
+}
+.cta-banner .row .columns.banner .text h2{
+	margin: 0;
+	font-size: 35px;
+	line-height: 40px;
+}
+.cta-banner .row .columns.banner .text h3{
+	font-size: 13px;
+	margin: 0;
+}
+.cta-banner .row .columns.banner .text p{
+	font-size: 12px;
+	margin: 0 0 12px 0;
+}
+.get-free-btn{
+	margin: auto;
+	width: 230px;
+	min-height: 30px;
+	color: #fff;
+	background-color: #4881C3;
+	border-radius: 5px;
+}
+.text a{
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+.text a p{
+	font-weight: bold;
+	line-height: 12px;
+	padding: 10px;
+	font-size: 14px;
+}
+/*Part-3*/
+.logos ul{
+	width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0;
+}
+.logos li{
+	display: inline;
+	min-width: 100px;
+	text-align: center;
+	padding: 5px;
+}
+.logos .media{
+	color: #6B7676;
+	background: #CBD1D0;
+}
+.logos li h3{
+	margin: 0;
+}
+/*Part-4*/
+.subscribe-buttons {
+    background: #17B8E7;
+    color: #FFFFFF; 
+}
+.subscribe-buttons ul  {
+    padding-left: 20px;
+}
+
+.subscribe-buttons, .sub_img2 {
+    padding-top: 3.75rem;
+}
+/*Part-5*/
+.featured-guests .row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.featured-guests > :first-child{
+    text-align: center;
+}
+.featured-guests .bluetext, .featured-guests h2 {
+    color: #1EB6E7;
+}
+.featured-guests h2 {
+    line-height: 1.2;
+    margin: 0;
+}
+.featured-guests p {
+    color: #969696;
+    line-height: 1.4;
+}
+/*Part-6*/
 .latest-episodes{
 	width: 100%;
 	background: #191A1A;
@@ -26,4 +151,12 @@
 	border: 2px solid #38C1EC;
 	padding: 10px;
 	margin: 20px 0;
+}
+/*Part-11*/
+.legalese {
+    color: #ffffff;
+    text-align: center;
+    background: #303235;
+    width: 100%;
+    height: auto;
 }
