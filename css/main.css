@@ -19,6 +19,15 @@
 .logos li h3{
 	margin: 0;
 }
+/*Part-4*/
+.subscribe-buttons {
+    background: #17B8E7;
+    color: #FFFFFF; 
+}
+
+.sub_img2 {
+    padding-top: 3.75rem;
+}
 /*Part-11*/
 .legalese {
     color: #ffffff;
