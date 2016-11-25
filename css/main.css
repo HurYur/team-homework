@@ -24,8 +24,11 @@
     background: #17B8E7;
     color: #FFFFFF; 
 }
+.subscribe-buttons ul  {
+    padding-left: 20px;
+}
 
-.sub_img2 {
+.subscribe-buttons, .sub_img2 {
     padding-top: 3.75rem;
 }
 /*Part-5*/
