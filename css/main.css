@@ -28,6 +28,25 @@
 .sub_img2 {
     padding-top: 3.75rem;
 }
+/*Part-5*/
+.featured-guests .row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.featured-guests > :first-child{
+    text-align: center;
+}
+.featured-guests .bluetext, .featured-guests h2 {
+    color: #1EB6E7;
+}
+.featured-guests h2 {
+    line-height: 1.2;
+    margin: 0;
+}
+.featured-guests p {
+    color: #969696;
+    line-height: 1.4;
+}
 /*Part-11*/
 .legalese {
     color: #ffffff;
