@@ -26,6 +26,9 @@
 	color: #202020;
 	font-weight: bolder;
 }
+.navigation .search-icon{
+	height: 12px;
+}
 .cta-banner{
 	height: 360px;
 	background-image: url(../img/banner.png);
