@@ -153,26 +153,22 @@
 	margin: 20px 0;
 }
 /*Part-7 Part-8*/
-* {
-	margin: 0;
-	padding: 0;
-}
-
 .popular-episodes {
 	margin: 40px 0 50px 0; 
 }
-.social {
-	height: 600px;;
+.popular-episodes .social-wrap{
+	display: flex;
+}
+.popular-episodes .social {
+	height: 800px;
 	background-color: #CBD1D0;
 	align-items: center;
 	border-radius: 2px;
 }
-
 .popular-episodes .row{
     margin-bottom: 20px;
 }
-
-.bluetext {
+.popular-episodes .bluetext {
     color: #1EB6E7;
 }
 .popular-episodes h2 {
@@ -183,21 +179,11 @@
     color: #191A1A;
     line-height: 1.6;
 }
-.person {
-	
-}
-uL {
-	margin-top: 90px;
-	text-align: center
-}
-li {
-	list-style-type: none;
-}
-a {
-	color:black;
+.popular-episodes a {
+	color: black;
 	text-decoration: none;
 }
-a:hover {
+.popular-episodes a:hover {
 	color: #1EB6E7;
 }
 /*Part-9*/
