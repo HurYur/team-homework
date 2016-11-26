@@ -152,6 +152,54 @@
 	padding: 10px;
 	margin: 20px 0;
 }
+/*Part-7 Part-8*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.popular-episodes {
+	margin: 40px 0 50px 0; 
+}
+.social {
+	height: 600px;;
+	background-color: #CBD1D0;
+	align-items: center;
+	border-radius: 2px;
+}
+
+.popular-episodes .row{
+    margin-bottom: 20px;
+}
+
+.bluetext {
+    color: #1EB6E7;
+}
+.popular-episodes h2 {
+    line-height: 4;
+    margin: 0;
+}
+.popular-episodes p {
+    color: #191A1A;
+    line-height: 1.6;
+}
+.person {
+	
+}
+uL {
+	margin-top: 90px;
+	text-align: center
+}
+li {
+	list-style-type: none;
+}
+a {
+	color:black;
+	text-decoration: none;
+}
+a:hover {
+	color: #1EB6E7;
+}
 /*Part-9*/
 .consume{
 	background: #CFD6D5;
