@@ -1,3 +1,4 @@
+
 /*Part-1-2*/
 .navigation .row .columns{
 	max-height: 75px;
@@ -219,6 +220,61 @@
 	border-radius: 50%;
 	font-size: 36px;
 }
+/* Part-10*/
+.footer {
+    padding: 5px;
+    background-color: black
+
+}
+
+
+.footer .left {
+    font-size: 36px;
+    color: white
+   
+}
+ 
+.footer .blu {
+    color: #22b7e6;
+}
+.footer .row {
+  padding: 70px 0 ;
+    
+ 
+}
+.footer .right {
+    font-size: 32px;
+    margin: 0 0 0 180px;
+     color: white
+}
+.footer .part {
+    font-size: 32px;
+    margin: 0 0 0 260px;
+    margin-top: 0px;
+    color: white
+}
+
+.footer .input {
+    font-size: 25px;
+    border: solid 2px white;
+    width: 322px;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    height: 50px;
+    margin: 100px 170px
+    
+}
+.footer .text {
+    color: white;
+   margin-top: 50px;
+}
+   
+    
+
+ 
+
+
 /*Part-11*/
 .legalese {
     color: #ffffff;
@@ -227,3 +283,4 @@
     width: 100%;
     height: auto;
 }
+
